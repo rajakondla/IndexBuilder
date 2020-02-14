@@ -1,0 +1,8 @@
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\bin\Debug\netstandard2.0\Collette.IndexStore.deps.json
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\bin\Debug\netstandard2.0\Collette.IndexStore.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\bin\Debug\netstandard2.0\Collette.IndexStore.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\obj\Debug\netstandard2.0\Collette.IndexStore.AssemblyInfoInputs.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\obj\Debug\netstandard2.0\Collette.IndexStore.AssemblyInfo.cs
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\obj\Debug\netstandard2.0\Collette.IndexStore.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\obj\Debug\netstandard2.0\Collette.IndexStore.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\obj\Debug\netstandard2.0\Collette.IndexStore.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\bin\Debug\netstandard2.0\Collette.Index.Core.deps.json
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\bin\Debug\netstandard2.0\Collette.Index.Core.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\obj\Debug\netstandard2.0\Collette.Index.Core.csprojAssemblyReference.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\obj\Debug\netstandard2.0\Collette.Index.Core.AssemblyInfoInputs.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\obj\Debug\netstandard2.0\Collette.Index.Core.AssemblyInfo.cs
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\bin\Debug\netstandard2.0\Collette.Commands.Abstraction.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\bin\Debug\netstandard2.0\Collette.Commands.Abstraction.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\obj\Debug\netstandard2.0\Collette.Index.Core.csproj.CopyComplete
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\bin\Debug\netstandard2.0\Collette.Index.Core.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\obj\Debug\netstandard2.0\Collette.Index.Core.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\obj\Debug\netstandard2.0\Collette.Index.Core.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\bin\Debug\netstandard2.0\Collette.Index.Abstraction.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\bin\Debug\netstandard2.0\Collette.Index.Abstraction.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\bin\Debug\netstandard2.0\Collette.Index.Models.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Core\bin\Debug\netstandard2.0\Collette.Index.Models.pdb

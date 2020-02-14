@@ -1,0 +1,17 @@
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\obj\Debug\netstandard2.0\Collette.Listener.AssemblyInfoInputs.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\obj\Debug\netstandard2.0\Collette.Listener.AssemblyInfo.cs
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\bin\Debug\netstandard2.0\Collette.Listener.deps.json
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\bin\Debug\netstandard2.0\Collette.Listener.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\bin\Debug\netstandard2.0\Collette.Listener.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\obj\Debug\netstandard2.0\Collette.Listener.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\obj\Debug\netstandard2.0\Collette.Listener.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\obj\Debug\netstandard2.0\Collette.Listener.csprojAssemblyReference.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\bin\Debug\netstandard2.0\Collette.Index.Abstraction.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\bin\Debug\netstandard2.0\Collette.Index.Models.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\bin\Debug\netstandard2.0\Collette.IndexStore.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\bin\Debug\netstandard2.0\Collette.Utilities.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\bin\Debug\netstandard2.0\Collette.Utilities.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\bin\Debug\netstandard2.0\Collette.Index.Abstraction.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\bin\Debug\netstandard2.0\Collette.IndexStore.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.QueueListener\obj\Debug\netstandard2.0\Collette.Listener.csproj.CopyComplete

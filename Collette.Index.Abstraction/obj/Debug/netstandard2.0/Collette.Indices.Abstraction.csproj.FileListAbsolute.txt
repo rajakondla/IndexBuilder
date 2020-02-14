@@ -1,0 +1,8 @@
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices.Abstraction\obj\Debug\netstandard2.0\Collette.Indices.Abstraction.csprojAssemblyReference.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices.Abstraction\obj\Debug\netstandard2.0\Collette.Indices.Abstraction.AssemblyInfoInputs.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices.Abstraction\obj\Debug\netstandard2.0\Collette.Indices.Abstraction.AssemblyInfo.cs
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices.Abstraction\bin\Debug\netstandard2.0\Collette.Indices.Abstraction.deps.json
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices.Abstraction\bin\Debug\netstandard2.0\Collette.Indices.Abstraction.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices.Abstraction\bin\Debug\netstandard2.0\Collette.Indices.Abstraction.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices.Abstraction\obj\Debug\netstandard2.0\Collette.Indices.Abstraction.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices.Abstraction\obj\Debug\netstandard2.0\Collette.Indices.Abstraction.pdb

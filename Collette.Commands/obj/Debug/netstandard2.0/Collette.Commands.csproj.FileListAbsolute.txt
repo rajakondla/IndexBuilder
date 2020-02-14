@@ -1,0 +1,11 @@
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Commands\bin\Debug\netstandard2.0\Collette.Commands.deps.json
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Commands\bin\Debug\netstandard2.0\Collette.Commands.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Commands\bin\Debug\netstandard2.0\Collette.Commands.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Commands\bin\Debug\netstandard2.0\Collette.Commands.Abstraction.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Commands\bin\Debug\netstandard2.0\Collette.Commands.Abstraction.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Commands\obj\Debug\netstandard2.0\Collette.Commands.csprojAssemblyReference.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Commands\obj\Debug\netstandard2.0\Collette.Commands.AssemblyInfoInputs.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Commands\obj\Debug\netstandard2.0\Collette.Commands.AssemblyInfo.cs
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Commands\obj\Debug\netstandard2.0\Collette.Commands.csproj.CopyComplete
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Commands\obj\Debug\netstandard2.0\Collette.Commands.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Commands\obj\Debug\netstandard2.0\Collette.Commands.pdb

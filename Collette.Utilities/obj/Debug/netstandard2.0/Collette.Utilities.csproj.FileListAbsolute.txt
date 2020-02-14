@@ -1,0 +1,8 @@
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Utilities\bin\Debug\netstandard2.0\Collette.Utilities.deps.json
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Utilities\bin\Debug\netstandard2.0\Collette.Utilities.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Utilities\bin\Debug\netstandard2.0\Collette.Utilities.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Utilities\obj\Debug\netstandard2.0\Collette.Utilities.csprojAssemblyReference.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Utilities\obj\Debug\netstandard2.0\Collette.Utilities.AssemblyInfoInputs.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Utilities\obj\Debug\netstandard2.0\Collette.Utilities.AssemblyInfo.cs
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Utilities\obj\Debug\netstandard2.0\Collette.Utilities.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Utilities\obj\Debug\netstandard2.0\Collette.Utilities.pdb

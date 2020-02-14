@@ -1,0 +1,7 @@
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Models\bin\Debug\netstandard2.0\Collette.Index.Models.deps.json
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Models\bin\Debug\netstandard2.0\Collette.Index.Models.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Models\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.AssemblyInfoInputs.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.AssemblyInfo.cs
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.pdb

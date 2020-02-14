@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Collette.Index.Abstraction\Collette.Index.Abstraction.csproj" />
+    <ProjectReference Include="..\Collette.Utilities\Collette.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

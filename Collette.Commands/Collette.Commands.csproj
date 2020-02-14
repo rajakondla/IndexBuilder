@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Collette.Commands.Abstraction">
+      <HintPath>..\Collette.Commands.Abstraction\bin\Debug\netstandard2.0\Collette.Commands.Abstraction.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

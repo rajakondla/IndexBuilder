@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Collette.Index.Abstraction\Collette.Index.Abstraction.csproj" />
+    <ProjectReference Include="..\Collette.Indices.Abstraction\Collette.Index.Abstraction.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Collette.Index.ViewModels">
+      <HintPath>..\Collette.Index.ViewModels\bin\Debug\netstandard2.0\Collette.Index.ViewModels.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\bin\Debug\netstandard2.0\Collette.Publisher.deps.json
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\bin\Debug\netstandard2.0\Collette.Publisher.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\bin\Debug\netstandard2.0\Collette.Publisher.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\obj\Debug\netstandard2.0\Collette.Publisher.AssemblyInfoInputs.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\obj\Debug\netstandard2.0\Collette.Publisher.AssemblyInfo.cs
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\obj\Debug\netstandard2.0\Collette.Publisher.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\obj\Debug\netstandard2.0\Collette.Publisher.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\obj\Debug\netstandard2.0\Collette.Publisher.csprojAssemblyReference.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\bin\Debug\netstandard2.0\Collette.Index.Abstraction.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\bin\Debug\netstandard2.0\Collette.Utilities.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\bin\Debug\netstandard2.0\Collette.Index.Models.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\bin\Debug\netstandard2.0\Collette.Index.Abstraction.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\bin\Debug\netstandard2.0\Collette.Utilities.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Publisher\obj\Debug\netstandard2.0\Collette.Publisher.csproj.CopyComplete
