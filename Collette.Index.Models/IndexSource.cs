@@ -7,7 +7,7 @@ namespace Collette.Index
 {
     public enum SourceType { DB, API };
 
-    public class IndexSource 
+    public class IndexSource
     {
         public Source[] DataSources { get; set; }
 

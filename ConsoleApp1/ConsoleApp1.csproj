@@ -44,6 +44,9 @@
     <Reference Include="Collette.IndexStore">
       <HintPath>..\Collette.IndexStore\bin\Debug\netstandard2.0\Collette.IndexStore.dll</HintPath>
     </Reference>
+    <Reference Include="Collette.Utilities.Core">
+      <HintPath>..\Collette.Utilities.Core\bin\Debug\netstandard2.0\Collette.Utilities.Core.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

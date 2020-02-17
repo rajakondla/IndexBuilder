@@ -14,8 +14,6 @@ C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices\obj\Debug\netstan
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\obj\Debug\netstandard2.0\Collette.Index.ADI.csprojAssemblyReference.cache
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\obj\Debug\netstandard2.0\Collette.Index.ADI.AssemblyInfoInputs.cache
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\obj\Debug\netstandard2.0\Collette.Index.ADI.AssemblyInfo.cs
-C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\obj\Debug\netstandard2.0\Collette.Index.ADI.dll
-C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\obj\Debug\netstandard2.0\Collette.Index.ADI.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.Index.ADI.deps.json
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.Index.ADI.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.Index.ADI.pdb
@@ -23,10 +21,14 @@ C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netst
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.Index.Core.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.Index.Models.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.IndexStore.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.Utilities.Core.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.Utilities.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.Index.Core.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.IndexStore.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.Utilities.Core.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.Utilities.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.Index.Abstraction.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\obj\Debug\netstandard2.0\Collette.Index.ADI.csproj.CopyComplete
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\obj\Debug\netstandard2.0\Collette.Index.ADI.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.ADI\obj\Debug\netstandard2.0\Collette.Index.ADI.pdb

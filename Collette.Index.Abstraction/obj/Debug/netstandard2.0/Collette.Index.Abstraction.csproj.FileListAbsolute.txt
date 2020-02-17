@@ -9,14 +9,14 @@ C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices.Abstraction\obj\D
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices.Abstraction\obj\Debug\netstandard2.0\Collette.Index.Abstraction.csproj.CopyComplete
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices.Abstraction\bin\Debug\netstandard2.0\Collette.Index.Models.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Indices.Abstraction\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\obj\Debug\netstandard2.0\Collette.Index.Abstraction.csprojAssemblyReference.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\obj\Debug\netstandard2.0\Collette.Index.Abstraction.AssemblyInfoInputs.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\obj\Debug\netstandard2.0\Collette.Index.Abstraction.AssemblyInfo.cs
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\bin\Debug\netstandard2.0\Collette.Index.Abstraction.deps.json
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\bin\Debug\netstandard2.0\Collette.Index.Abstraction.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\bin\Debug\netstandard2.0\Collette.Index.Abstraction.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\bin\Debug\netstandard2.0\Collette.Index.Models.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
-C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\obj\Debug\netstandard2.0\Collette.Index.Abstraction.csprojAssemblyReference.cache
-C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\obj\Debug\netstandard2.0\Collette.Index.Abstraction.AssemblyInfoInputs.cache
-C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\obj\Debug\netstandard2.0\Collette.Index.Abstraction.AssemblyInfo.cs
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\obj\Debug\netstandard2.0\Collette.Index.Abstraction.csproj.CopyComplete
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\obj\Debug\netstandard2.0\Collette.Index.Abstraction.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Abstraction\obj\Debug\netstandard2.0\Collette.Index.Abstraction.pdb

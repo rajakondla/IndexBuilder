@@ -32,8 +32,19 @@ namespace Collette.Index.Core
                     && !t.IsInterface
                     && (typeof(BaseIndex).IsAssignableFrom(t) || typeof(IPublisher).IsAssignableFrom(t))))
             {
-                  moduleServices.AddSingleton(implementation);
+                  moduleServices.AddTransient(implementation);
             }
+
+            foreach (var implementation in loadedAssemblies
+                .SelectMany(x => x.GetTypes())
+                .Where(t =>
+                    !t.IsAbstract
+                    && !t.IsInterface
+                    && (t.Name.EndsWith("Repository") || t.Name.EndsWith("Comparer"))))
+            {
+                moduleServices.AddTransient(implementation.GetInterface("I"+implementation.Name), implementation);
+            }
+
 
             return moduleServices.BuildServiceProvider();
         }

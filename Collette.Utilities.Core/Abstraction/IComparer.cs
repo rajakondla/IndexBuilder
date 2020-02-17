@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Collette.Utilities.Core.Abstraction
+namespace Collette.Utilities
 {
-    public interface ICompare
+    public interface IComparer
     {
         Task<string> CompareFileWithString(string filePath, JObject data);
     }

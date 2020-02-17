@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="IndexProcessor.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Collette.Utilities\Collette.Utilities.csproj" />
   </ItemGroup>
 

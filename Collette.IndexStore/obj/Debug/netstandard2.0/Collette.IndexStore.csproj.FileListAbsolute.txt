@@ -5,4 +5,3 @@ C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\obj\Debug\nets
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\obj\Debug\netstandard2.0\Collette.IndexStore.AssemblyInfo.cs
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\obj\Debug\netstandard2.0\Collette.IndexStore.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\obj\Debug\netstandard2.0\Collette.IndexStore.pdb
-C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.IndexStore\obj\Debug\netstandard2.0\Collette.IndexStore.csprojAssemblyReference.cache

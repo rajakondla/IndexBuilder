@@ -1,8 +1,10 @@
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.csprojAssemblyReference.cache
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.AssemblyInfoInputs.cache
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.AssemblyInfo.cs
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\netstandard2.0\appsettings.json
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Service.deps.json
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Service.dll
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Service.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Abstraction.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Core.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Models.dll
@@ -10,7 +12,5 @@ C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\n
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Core.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.csproj.CopyComplete
-C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Service.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.pdb
-C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\netstandard2.0\appsettings.json

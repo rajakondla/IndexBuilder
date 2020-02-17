@@ -8,7 +8,7 @@ using System.Text;
 
 namespace Collette.Index
 {
-    public class ADISource : IDataSource
+    public class ADIRepository : IADIRepository
     {
         public string APISource(string url, string market)
         {

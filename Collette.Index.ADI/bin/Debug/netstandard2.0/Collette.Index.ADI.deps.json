@@ -12,6 +12,7 @@
           "Collette.Index.Core": "1.0.0",
           "Collette.IndexStore": "1.0.0",
           "Collette.Utilities": "1.0.0",
+          "Collette.Utilities.Core": "1.0.0",
           "Microsoft.Extensions.Configuration.Binder": "3.1.1",
           "NETStandard.Library": "2.0.3",
           "Collette.Index.Abstraction": "1.0.0.0",
@@ -265,6 +266,14 @@
           "Collette.IndexStore.dll": {}
         }
       },
+      "Collette.Utilities.Core/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "Collette.Utilities.Core.dll": {}
+        }
+      },
       "Collette.Index.Abstraction/1.0.0.0": {
         "runtime": {
           "Collette.Index.Abstraction.dll": {
@@ -464,6 +473,11 @@
       "sha512": ""
     },
     "Collette.IndexStore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Collette.Utilities.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

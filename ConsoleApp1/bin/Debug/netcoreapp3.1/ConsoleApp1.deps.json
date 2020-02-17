@@ -20,7 +20,8 @@
           "Collette.Index.Models": "1.0.0.0",
           "Collette.Index.Publisher": "1.0.0.0",
           "Collette.Index.Service": "1.0.0.0",
-          "Collette.IndexStore": "1.0.0.0"
+          "Collette.IndexStore": "1.0.0.0",
+          "Collette.Utilities.Core": "1.0.0.0"
         },
         "runtime": {
           "ConsoleApp1.dll": {}
@@ -301,6 +302,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Collette.Utilities.Core/1.0.0.0": {
+        "runtime": {
+          "Collette.Utilities.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -484,6 +493,11 @@
       "sha512": ""
     },
     "Collette.IndexStore/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Collette.Utilities.Core/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

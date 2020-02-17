@@ -1,3 +1,6 @@
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\obj\Debug\netstandard2.0\Collette.Index.Listener.csprojAssemblyReference.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\obj\Debug\netstandard2.0\Collette.Index.Listener.AssemblyInfoInputs.cache
+C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\obj\Debug\netstandard2.0\Collette.Index.Listener.AssemblyInfo.cs
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\bin\Debug\netstandard2.0\Collette.Index.Listener.deps.json
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\bin\Debug\netstandard2.0\Collette.Index.Listener.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\bin\Debug\netstandard2.0\Collette.Index.Listener.pdb
@@ -9,9 +12,6 @@ C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\bin\Debug\
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\bin\Debug\netstandard2.0\Collette.Index.Abstraction.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\bin\Debug\netstandard2.0\Collette.IndexStore.pdb
-C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\obj\Debug\netstandard2.0\Collette.Index.Listener.csprojAssemblyReference.cache
-C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\obj\Debug\netstandard2.0\Collette.Index.Listener.AssemblyInfoInputs.cache
-C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\obj\Debug\netstandard2.0\Collette.Index.Listener.AssemblyInfo.cs
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\obj\Debug\netstandard2.0\Collette.Index.Listener.csproj.CopyComplete
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\obj\Debug\netstandard2.0\Collette.Index.Listener.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Listener\obj\Debug\netstandard2.0\Collette.Index.Listener.pdb

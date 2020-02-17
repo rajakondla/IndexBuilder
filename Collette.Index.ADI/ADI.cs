@@ -6,18 +6,18 @@ using System.Linq;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using Newtonsoft.Json.Linq;
-using Collette.Utilities.Core.Abstraction;
+using Collette.Utilities.Core;
 
 namespace Collette.Index
 {
     public sealed class ADI : BaseIndex
     {
-        private IDataSource _dataSource;
-        private ICompare _compare;
+        private IADIRepository _dataSource;
+        private IComparer _compare;
 
-        public ADI(IConfiguration config, IDataSource dataSource, ICompare compare) : base(config)
+        public ADI(IConfiguration config, IADIRepository dataSource, IComparer compare) : base(config)
         {
-            _dataSource = dataSource ?? new ADISource();
+            _dataSource = dataSource ?? new ADIRepository();
             _compare = compare ?? new Comparer();
         }
 
@@ -57,7 +57,7 @@ namespace Collette.Index
                 {
                     case "DB":
                         {
-                            _dataSource.DBSource("", market);
+                           // _dataSource.DBSource("", market);
                             continue;
                         }
                     case "API":

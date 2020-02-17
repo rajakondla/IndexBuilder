@@ -20,8 +20,9 @@ namespace Collette.Index.Core
         public void InitializeServices(IConfiguration configuration)
         {
             var factory = new Provider(configuration);
-         
-            var assemblies = ScanAssembly("Collette.Index.*.dll");
+
+            var assemblies = ScanAssembly("Collette.Index.*.dll").ToList();
+            assemblies.AddRange(ScanAssembly("Collette.Utilities.*.dll"));
             var serviceProvider = factory.CreateServiceContainer(assemblies);
             ServiceLocator.SetLocatorProvider(serviceProvider);
         }
