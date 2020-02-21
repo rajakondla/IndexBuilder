@@ -1,41 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Commands.Abstraction\\Collette.Commands.Abstraction.csproj": {}
+    "C:\\Users\\xinthe\\Desktop\\Collete\\IndexBuilder-master\\Collette.Commands.Abstraction\\Collette.Commands.Abstraction.csproj": {}
   },
   "projects": {
-    "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Commands.Abstraction\\Collette.Commands.Abstraction.csproj": {
+    "C:\\Users\\xinthe\\Desktop\\Collete\\IndexBuilder-master\\Collette.Commands.Abstraction\\Collette.Commands.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Commands.Abstraction\\Collette.Commands.Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\xinthe\\Desktop\\Collete\\IndexBuilder-master\\Collette.Commands.Abstraction\\Collette.Commands.Abstraction.csproj",
         "projectName": "Collette.Commands.Abstraction",
-        "projectPath": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Commands.Abstraction\\Collette.Commands.Abstraction.csproj",
-        "packagesPath": "C:\\Users\\raja\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Commands.Abstraction\\obj\\",
+        "projectPath": "C:\\Users\\xinthe\\Desktop\\Collete\\IndexBuilder-master\\Collette.Commands.Abstraction\\Collette.Commands.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\xinthe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xinthe\\Desktop\\Collete\\IndexBuilder-master\\Collette.Commands.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\raja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xinthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\ColletteNugetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Index.Abstraction\\Collette.Index.Abstraction.csproj": {
-                "projectPath": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Index.Abstraction\\Collette.Index.Abstraction.csproj"
-              },
-              "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Indices.Abstraction\\Collette.Index.Abstraction.csproj": {
-                "projectPath": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Indices.Abstraction\\Collette.Index.Abstraction.csproj"
+              "C:\\Users\\xinthe\\Desktop\\Collete\\IndexBuilder-master\\Collette.Index.Abstraction\\Collette.Index.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\xinthe\\Desktop\\Collete\\IndexBuilder-master\\Collette.Index.Abstraction\\Collette.Index.Abstraction.csproj"
               }
             }
           }
@@ -66,31 +62,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Index.Abstraction\\Collette.Index.Abstraction.csproj": {
+    "C:\\Users\\xinthe\\Desktop\\Collete\\IndexBuilder-master\\Collette.Index.Abstraction\\Collette.Index.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Index.Abstraction\\Collette.Index.Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\xinthe\\Desktop\\Collete\\IndexBuilder-master\\Collette.Index.Abstraction\\Collette.Index.Abstraction.csproj",
         "projectName": "Collette.Index.Abstraction",
-        "projectPath": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Index.Abstraction\\Collette.Index.Abstraction.csproj",
-        "packagesPath": "C:\\Users\\raja\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Index.Abstraction\\obj\\",
+        "projectPath": "C:\\Users\\xinthe\\Desktop\\Collete\\IndexBuilder-master\\Collette.Index.Abstraction\\Collette.Index.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\xinthe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xinthe\\Desktop\\Collete\\IndexBuilder-master\\Collette.Index.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\raja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xinthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\ColletteNugetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -109,6 +104,10 @@
         "netstandard2.0": {
           "dependencies": {
             "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
               "target": "Package",
               "version": "[3.1.1, )"
             },
@@ -133,74 +132,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Indices.Abstraction\\Collette.Index.Abstraction.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Indices.Abstraction\\Collette.Index.Abstraction.csproj",
-        "projectName": "Collette.Index.Abstraction",
-        "projectPath": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Indices.Abstraction\\Collette.Index.Abstraction.csproj",
-        "packagesPath": "C:\\Users\\raja\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.Indices.Abstraction\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\raja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netstandard2.0"
-        ],
-        "sources": {
-          "C:\\ColletteNugetPackages": {},
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netstandard2.0": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netstandard2.0": {
-          "dependencies": {
-            "Microsoft.Extensions.Configuration.Abstractions": {
-              "target": "Package",
-              "version": "[3.1.1, )"
-            },
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

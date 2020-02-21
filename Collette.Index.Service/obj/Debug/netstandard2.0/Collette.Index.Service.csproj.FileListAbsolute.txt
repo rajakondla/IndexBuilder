@@ -14,3 +14,39 @@ C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\bin\Debug\n
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.csproj.CopyComplete
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\appsettings.json
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Service.deps.json
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Service.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Service.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Abstraction.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Core.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Models.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Abstraction.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Core.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.csprojAssemblyReference.cache
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.AssemblyInfoInputs.cache
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.AssemblyInfo.cs
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.csproj.CopyComplete
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Utilities.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Utilities.pdb
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\appsettings.json
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Service.deps.json
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Service.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Service.pdb
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Abstraction.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Core.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Utilities.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Models.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Abstraction.pdb
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Core.pdb
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Utilities.pdb
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.csprojAssemblyReference.cache
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.AssemblyInfoInputs.cache
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.AssemblyInfo.cs
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.csproj.CopyComplete
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Service\obj\Debug\netstandard2.0\Collette.Index.Service.pdb

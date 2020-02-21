@@ -5,8 +5,12 @@ namespace Collette.IndexStore
 {
     public class IndexWrapper
     {
-        public bool Build(JObject jObj)
+        public bool UpdateIndex(string type, JObject jobj)
         {
+            if(type == "ADI")
+            {
+              
+            }
             return true;
         }
     }

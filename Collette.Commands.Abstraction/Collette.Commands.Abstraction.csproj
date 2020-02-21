@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Collette.Index.Abstraction\Collette.Index.Abstraction.csproj" />
-    <ProjectReference Include="..\Collette.Indices.Abstraction\Collette.Index.Abstraction.csproj" />
+    <!--<ProjectReference Include="..\Collette.Indices.Abstraction\Collette.Index.Abstraction.csproj" />-->
   </ItemGroup>
 
   <ItemGroup>

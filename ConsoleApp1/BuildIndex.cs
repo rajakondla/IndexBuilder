@@ -12,11 +12,13 @@ namespace ConsoleApp1
     {
         static void Main()
         {
-            Program.Main();
-
-            BaseIndex index = (BaseIndex)ServiceLocator.Current.GetInstance(Service.GetFullIndexName("ADI"));
+            Program.Main(); 
+            // read component from queue
+            var component = "ADI";
+            BaseIndex index = (BaseIndex)ServiceLocator.Current.GetInstance(Service.GetFullIndexName(component));
 
             index.Process();
+           
         }
 
     }
