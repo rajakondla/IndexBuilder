@@ -28,3 +28,33 @@ C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Publisher\obj\Debug
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.csproj.CopyComplete
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Publisher.deps.json
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Publisher.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Publisher.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Abstraction.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Utilities.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Models.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Abstraction.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Utilities.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.AssemblyInfoInputs.cache
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.AssemblyInfo.cs
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.csproj.CopyComplete
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.csprojAssemblyReference.cache
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Publisher.deps.json
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Publisher.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Publisher.pdb
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Abstraction.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Utilities.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Models.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Abstraction.pdb
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Utilities.pdb
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.csprojAssemblyReference.cache
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.AssemblyInfoInputs.cache
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.AssemblyInfo.cs
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.csproj.CopyComplete
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Publisher\obj\Debug\netstandard2.0\Collette.Index.Publisher.pdb

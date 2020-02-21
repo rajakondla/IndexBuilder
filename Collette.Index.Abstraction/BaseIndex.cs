@@ -1,9 +1,9 @@
 ﻿
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json.Linq;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
+using Collette.Utilities;
+using System.Collections.Generic;
 
 namespace Collette.Index
 {
@@ -16,23 +16,22 @@ namespace Collette.Index
 
         protected IConfiguration Configuration { get; set; }
 
-        //protected string IndexType { get; set; }
-
         public string[] Markets { get; set; }
 
         public string[] Fields { get; set; }
 
         protected IndexSource IndexConfiguration { get; set; }
 
-        protected JObject Data { get; set; }
-
+        protected IDictionary<string,string> ReadDataResult { get; set; }
         protected abstract IndexSource ReadConfiguration();
 
-        protected abstract JObject ReadData(string market);
+        protected abstract IDictionary<string, string> ReadData(string market);
+      
+        protected abstract JArray Compare(IDictionary<string, string> readResultData);
 
-        protected abstract JObject Compare(string market);
+        protected abstract IIndexModel BuildModel(JArray jObj);
 
-        protected abstract IIndexModel BuildModel(JObject jObj);
+        protected IIndexModel Model { get; set; }
 
         private bool BuildIndex(IIndexModel model)
         {
@@ -40,11 +39,11 @@ namespace Collette.Index
             return true;
         }
 
-        protected abstract JObject QueueObject { get; set; }
+        //protected abstract JObject QueueObject { get; set; }
 
         private void AddToQueue(JObject obj)
         {
-
+            Queue.Push(obj);
         }
 
         public void Process()
@@ -59,27 +58,29 @@ namespace Collette.Index
             {
                 if (IndexConfiguration.DataSources.Length > 0)
                 {
-                    Data = ReadData(market);
+                    ReadDataResult = ReadData(market);
 
-                    if (Data != null && Data.Count > 0)
+                    if (ReadDataResult != null && ReadDataResult.Count > 0)
                     {
-                        var result = Compare(market);
+                        JArray result = Compare(ReadDataResult);
 
                         if (result != null)
                         {
-                            var model = BuildModel(result);
-                            if (model != null)
-                            {
-                                var isIndexBuild = BuildIndex(model);
-                                if (isIndexBuild)
-                                {
-                                    AddToQueue(QueueObject);
-                                }
-                            }
+                            Model = BuildModel(result);
+                            //if (Model != null)
+                            //{
+                            //    var isIndexBuild = BuildIndex(Model);
+                            //    if (isIndexBuild)
+                            //    {
+                            //        //AddToQueue(QueueObject);
+                            //    }
+                            //}
                         }
                     }
                 }
             }
         }
+
+        
     }
 }

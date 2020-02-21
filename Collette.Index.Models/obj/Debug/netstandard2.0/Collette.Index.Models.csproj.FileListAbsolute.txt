@@ -5,3 +5,19 @@ C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Models\obj\Debug\ne
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.AssemblyInfo.cs
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.dll
 C:\MyProject\ComsoleAppDotNetCore\ConsoleApp1\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Models\bin\Debug\netstandard2.0\Collette.Index.Models.deps.json
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Models\bin\Debug\netstandard2.0\Collette.Index.Models.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Models\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.AssemblyInfoInputs.cache
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.AssemblyInfo.cs
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.dll
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.pdb
+C:\Users\xinthe\Desktop\Collete\IndexBuilder-master\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.csprojAssemblyReference.cache
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Models\bin\Debug\netstandard2.0\Collette.Index.Models.deps.json
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Models\bin\Debug\netstandard2.0\Collette.Index.Models.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Models\bin\Debug\netstandard2.0\Collette.Index.Models.pdb
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.csprojAssemblyReference.cache
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.AssemblyInfoInputs.cache
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.AssemblyInfo.cs
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.dll
+E:\Projects\Collette Index\Collete\IndexBuilder-master\Collette.Index.Models\obj\Debug\netstandard2.0\Collette.Index.Models.pdb

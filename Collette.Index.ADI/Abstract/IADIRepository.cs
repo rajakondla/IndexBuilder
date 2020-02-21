@@ -6,7 +6,7 @@ namespace Collette.Index
 {
     public interface IADIRepository
     {
-        string DBSource(string connectionString, string market);
-        string APISource(string url, string market);
+        string GetWeatherData(string connectionString, string market);
+        string GetAPIData(string url, string market);
     }
 }

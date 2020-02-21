@@ -8,7 +8,9 @@ namespace Collette.Utilities
     {
         public static void Push(JObject jObj)
         {
-            File.AppendAllText(@"C:\MyProject\Notification\Sample.json", jObj.ToString());
+            //File.AppendAllText(@"C:\MyProject\Notification\Sample.json", jObj.ToString());
+            File.AppendAllText(@"E:\Projects\Collette Index\ColletteFiles\sample.json", jObj.ToString());
+
         }
     }
 }

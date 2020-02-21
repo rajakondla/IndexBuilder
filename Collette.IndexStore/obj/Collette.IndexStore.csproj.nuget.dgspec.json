@@ -1,30 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.IndexStore\\Collette.IndexStore.csproj": {}
+    "E:\\Projects\\Collette Index\\Collete\\IndexBuilder-master\\Collette.IndexStore\\Collette.IndexStore.csproj": {}
   },
   "projects": {
-    "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.IndexStore\\Collette.IndexStore.csproj": {
+    "E:\\Projects\\Collette Index\\Collete\\IndexBuilder-master\\Collette.IndexStore\\Collette.IndexStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.IndexStore\\Collette.IndexStore.csproj",
+        "projectUniqueName": "E:\\Projects\\Collette Index\\Collete\\IndexBuilder-master\\Collette.IndexStore\\Collette.IndexStore.csproj",
         "projectName": "Collette.IndexStore",
-        "projectPath": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.IndexStore\\Collette.IndexStore.csproj",
-        "packagesPath": "C:\\Users\\raja\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProject\\ComsoleAppDotNetCore\\ConsoleApp1\\Collette.IndexStore\\obj\\",
+        "projectPath": "E:\\Projects\\Collette Index\\Collete\\IndexBuilder-master\\Collette.IndexStore\\Collette.IndexStore.csproj",
+        "packagesPath": "C:\\Users\\sandhya\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Collette Index\\Collete\\IndexBuilder-master\\Collette.IndexStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\raja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sandhya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\ColletteNugetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -42,6 +41,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -51,6 +54,14 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
+            },
+            "ObjectsComparer": {
+              "target": "Package",
+              "version": "[1.4.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
             }
           },
           "imports": [
@@ -63,7 +74,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
